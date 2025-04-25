@@ -2,7 +2,7 @@
 
 ## Contact
 
-- [Email](mailto:ahmet@ulkumatom.com)
-- [LinkedIn](https://www.linkedin.com/in/ahmet-ulkumatom/)
-- [Twitter](https://twitter.com/ahmet_ulkumatom)
+- [Email](mailto:imcanisik@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ulkumatom/)
+- [Twitter](https://twitter.com/ulkumatom)
 - [GitHub](https://github.com/ulkumatom)
